@@ -5,8 +5,8 @@
 **Georgia Institute of Technology** - Remote (Atlanta, GA) \\
 _Master of Science in Analytics (January 2026 - December 2027)_
 
-**John Carroll University** - University Heights, OH 
-_Bachelor of Science in Mathematics - (August 2021 - May 2025)_
+**John Carroll University** - University Heights, OH \\
+_Bachelor of Science in Mathematics - (August 2021 - May 2025)_ \\
 _Minors in Data Science, Statistics & Analytics_
 - Eugene R. Mittinger Mathematics Award for Academic Excellence
 
@@ -37,7 +37,7 @@ _Minors in Data Science, Statistics & Analytics_
 ## Work Experience
 
 **John Carroll University Women's Volleyball** - _University Heights, OH_
-- Conducted regression and correlation analyses with R and SPSS
+- Conducted **regression and correlation analyses** with **R and SPSS**
 - Delivered data-driven insights to coaching staff that influenced team strategy
 
 ## Technical Skills

@@ -2,7 +2,7 @@
 
 ## Education
 
-#### Georgia Institute of Technology - Remote (Atlanta, GA)
+# Georgia Institute of Technology - Remote (Atlanta, GA)
 _Master of Science in Analytics (January 2026 - December 2027)_
 
 ### John Carroll University - University Heights, OH

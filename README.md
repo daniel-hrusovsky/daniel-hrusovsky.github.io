@@ -2,29 +2,31 @@
 
 ## Education
 
-### Georgia Institute of Technology - Remote (Atlanta, GA)
+**Georgia Institute of Technology** - Remote (Atlanta, GA)
 _Master of Science in Analytics (January 2026 - December 2027)_
 
-### John Carroll University - University Heights, OH 
-_Bachelor of Science in Mathematics, Minors in Data Science, Statistics & Analytics (August 2021 - May 2025)_
+**John Carroll University** - University Heights, OH 
+_Bachelor of Science in Mathematics - (August 2021 - May 2025)_
+_Minors in Data Science, Statistics & Analytics_
+- Eugene R. Mittinger Mathematics Award for Academic Excellence
 
-### Relevant Coursework: Applied Regression Analysis, Applied Statistics, Applied Mathematics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
+**Relevant Coursework:** Applied Regression Analysis, Applied Statistics, Applied Mathematics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
 
 ## Projects
 
-### - The Relationship of Serving and Win Probability in Women's Volleyball - _SPSS, R, Tableau_
+**The Relationship of Serving and Win Probability in Women's Volleyball** - _SPSS, R, Tableau_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
 - Built regression models to uncover actionable insights for coaching strategy
 - Found aggressive serving (even with serving errors) linked to higher win rates
 - View Project
 
-### - Predicting Unique National Football League Scores - _Python, Pandas, NumPy, scikit-learn_
+**Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn_
 - Examined how different offensive and defensive statistics of professional football games affect scoring outcomes 
 - Built a correlation neural network on ~16,500 professional football games to predict unique final scores
 - Achieved 
 - View Project
 
-### - Fantasy Football League Database - _Python, Pandas, NumPy, sleeper-api_
+**Fantasy Football League Database** - _Python, Pandas, NumPy, sleeper-api, gspread_
 - 
 - Combined 
 - 
@@ -34,9 +36,8 @@ _Bachelor of Science in Mathematics, Minors in Data Science, Statistics & Analyt
 
 ## Work Experience
 
-### John Carroll University Women's Volleyball - _University Heights, OH_
+**John Carroll University Women's Volleyball** - _University Heights, OH_
 - Conducted regression and correlation analyses with R and SPSS
--  to the coaching staff and players
 - Delivered data-driven insights to coaching staff that influenced team strategy
 
 ## Technical Skills

@@ -2,13 +2,13 @@
 
 ## Education
 
-### Georgia Institute of Technology - Remote (Atlanta, GA)
+#### Georgia Institute of Technology - Remote (Atlanta, GA)
 _Master of Science in Analytics (January 2026 - December 2027)_
 
-### John Carroll University - University Heights, OH
+#### John Carroll University - University Heights, OH
 _Bachelor of Science in Mathematics, Minors in Data Science, Statistics & Analytics (August 2021 - May 2025)_
 
-### Relevant Coursework: Applied Regression Analysis, Applied Statistics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
+#### Relevant Coursework: Applied Regression Analysis, Applied Statistics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
 
 ## Projects
 

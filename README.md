@@ -1,6 +1,6 @@
 # Data Scientist
 
-## Education
+## 🎓 Education
 
 **Georgia Institute of Technology** - Remote (Atlanta, GA) \\
 _Master of Science in Analytics (January 2026 - December 2027)_
@@ -12,7 +12,7 @@ _Minors in Data Science, Statistics & Analytics_
 
 **Relevant Coursework:** Applied Regression Analysis, Applied Statistics, Applied Mathematics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
 
-## Projects
+## 📂 Projects
 
 **The Relationship of Serving and Win Probability in Women's Volleyball** - _SPSS, R, Tableau_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
@@ -34,7 +34,7 @@ _Minors in Data Science, Statistics & Analytics_
 
 ### See profile for additional projects
 
-## Work Experience
+## 💼 Work Experience
 
 **John Carroll University Women's Volleyball** - _University Heights, OH_
 - Conducted **regression and correlation analyses** with **R and SPSS**
@@ -42,7 +42,7 @@ _Minors in Data Science, Statistics & Analytics_
 
 ## Technical Skills
 
-### Languages & Analysis
+### 🛠️ Languages & Analysis
 - Python
 - R
 - SQL

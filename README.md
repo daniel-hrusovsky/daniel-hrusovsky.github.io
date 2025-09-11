@@ -3,10 +3,10 @@
 ## 🎓 Education
 
 **Georgia Institute of Technology** - Remote (Atlanta, GA) \\
-_Master of Science in Analytics (January 2026 - December 2027)_
+_Master of Science in Analytics -- (January 2026 - December 2027)_
 
 **John Carroll University** - University Heights, OH \\
-_Bachelor of Science in Mathematics - (August 2021 - May 2025)_ \\
+_Bachelor of Science in Mathematics -- (August 2021 -- May 2025)_ \\
 _Minors in Data Science, Statistics & Analytics_
 - Eugene R. Mittinger Mathematics Award for Academic Excellence
 
@@ -16,29 +16,30 @@ _Minors in Data Science, Statistics & Analytics_
 
 **The Relationship of Serving and Win Probability in Women's Volleyball** - _SPSS, R, Tableau_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
-- Built regression models to uncover actionable insights for coaching strategy
+- Built **regression models** to uncover actionable insights for coaching strategy
 - Found aggressive serving (even with serving errors) linked to higher win rates
 - View Project
 
-**Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn_
-- Examined how different offensive and defensive statistics of professional football games affect scoring outcomes 
-- Built a correlation neural network on ~16,500 professional football games to predict unique final scores
+**Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn, Tableau_
+- Examined how different offensive and defensive statistics of professional football games affect unique scoring outcomes 
+- Built an **MLP correlation neural network** on ~16,500 professional football games to predict final scores
 - Achieved 
 - View Project
 
 **Fantasy Football League Database** - _Python, Pandas, NumPy, sleeper-api, gspread_
-- 
+- A relational database joining 
 - Combined 
 - 
 - View Project
 
-### See profile for additional projects
+**View profile for additional projects**
 
 ## 💼 Work Experience
 
-**John Carroll University Women's Volleyball** - _University Heights, OH_
+**John Carroll University Women's Volleyball** - _University Heights, OH_ \\
+_Analyst, Assistant Coach -- (August 2023 - May 2025)_
 - Conducted **regression and correlation analyses** with **R and SPSS**
-- Delivered data-driven insights to coaching staff that influenced team strategy
+- Delivered data-driven insights through scouting reports to coaching staff that influenced team strategy
 
 ## Technical Skills
 

@@ -17,7 +17,7 @@ _Minors in Data Science, Statistics & Analytics_
 **The Relationship of Serving and Win Probability in Women's Volleyball** - _SPSS, R, Tableau_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
 - Built **regression models** to uncover actionable insights for coaching strategy
-- Found aggressive serving (even with serving errors) linked to higher win rates
+- Found aggressive serving, even with serving errors, linked to higher win rates
 - View Project
 
 **Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn, Tableau_
@@ -26,7 +26,7 @@ _Minors in Data Science, Statistics & Analytics_
 - Achieved 
 - View Project
 
-**Fantasy Football League Database** - _Python, Pandas, NumPy, sleeper-api, gspread_
+**Fantasy Football League Database** - _Python, Pandas, NumPy, gspread, sleeper_
 - A relational database joining 
 - Combined 
 - 

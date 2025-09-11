@@ -1,5 +1,9 @@
 # Data Scientist
 
+📍 Cleveland, OH
+📧 dhrusovsky25@jcu.edu | 📱 (216) 570-1687
+[LinkedIn]/(https://www.linkedin.com/in/daniel-hrusovsky-8118492b0)
+
 ## 🎓 Education
 
 **Georgia Institute of Technology** - Remote (Atlanta, GA) \\
@@ -19,18 +23,18 @@ _Minors in Data Science, Statistics & Analytics_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
 - Built **regression models** to uncover actionable insights for coaching strategy
 - Found aggressive serving, even with serving errors, linked to higher win rates
-- View Project
+- [View Project](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
 
 **Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn, Tableau_
 - Examined how different offensive and defensive statistics of professional football games affect unique scoring outcomes 
 - Built an **MLP correlation neural network** on ~16,500 professional football games to predict final scores
 - Implemented model in public X and BlueSky accounts for ~16,500 weekly viewers 
-- View Project
+- [View Project]
 
 **Fantasy Football League Database** - _Python, Pandas, NumPy, gspread, sleeper_
 - Built a **relational database** joining unstructured league data from four different leagues
 - Distributed weekly results to ~35 colleagues for strategy and curiosity
-- View Project
+- [View Project]
 
 **View profile for additional projects**
 

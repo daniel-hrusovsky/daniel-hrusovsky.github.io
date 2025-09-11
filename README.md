@@ -2,7 +2,7 @@
 
 📍 Cleveland, OH
 📧 dhrusovsky25@jcu.edu | 📱 (216) 570-1687
-[LinkedIn]/(https://www.linkedin.com/in/daniel-hrusovsky-8118492b0)
+[LinkedIn](https://www.linkedin.com/in/daniel-hrusovsky-8118492b0)
 
 ## 🎓 Education
 

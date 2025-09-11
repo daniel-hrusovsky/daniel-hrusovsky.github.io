@@ -27,9 +27,8 @@ _Minors in Data Science, Statistics & Analytics_
 - View Project
 
 **Fantasy Football League Database** - _Python, Pandas, NumPy, gspread, sleeper_
-- A relational database joining 
-- Combined 
-- 
+- Built a **relational database** joining unstructured league data from four different leagues
+- Distributed weekly results to ~35 colleagues for strategy and curiosity
 - View Project
 
 **View profile for additional projects**
@@ -39,7 +38,8 @@ _Minors in Data Science, Statistics & Analytics_
 **John Carroll University Women's Volleyball** - _University Heights, OH_ \\
 _Analyst, Assistant Coach -- (August 2023 - May 2025)_
 - Conducted **regression and correlation analyses** with **R and SPSS**
-- Delivered data-driven insights through scouting reports to coaching staff that influenced team strategy
+- Delivered data-driven insights through scouting reports to the coaching staff that influenced team strategy
+- Assisted and collaborated with the team and staff to provide beneficial information during matches and practices
 
 ## Technical Skills
 

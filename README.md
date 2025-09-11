@@ -9,6 +9,7 @@ _Master of Science in Analytics -- (January 2026 - December 2027)_
 _Bachelor of Science in Mathematics -- (August 2021 -- May 2025)_ \\
 _Minors in Data Science, Statistics & Analytics_
 - Eugene R. Mittinger Mathematics Award for Academic Excellence
+- Mathematical Honors Society
 
 **Relevant Coursework:** Applied Regression Analysis, Applied Statistics, Applied Mathematics, Mathematical Statistics, Database Systems, Analyzing Data with Tableau, Intermediate Data Science, Linear Algebra
 

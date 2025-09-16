@@ -29,7 +29,7 @@ _Minors in Data Science, Statistics & Analytics_
 - Examined how different offensive and defensive statistics of professional football games affect unique scoring outcomes 
 - Built an **MLP correlation neural network** on ~16,500 professional football games to predict final scores
 - Implemented model in public X and BlueSky accounts for ~16,500 weekly viewers 
-- [View Project]
+- [View Project](https://github.com/daniel-hrusovsky/Predicting-Unique-National-Football-League-Scores)
 
 **Fantasy Football League Database** - _Python, Pandas, NumPy, gspread, sleeper_
 - Built a **relational database** joining unstructured league data from four different leagues

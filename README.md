@@ -31,10 +31,11 @@ _Minors in Data Science, Statistics & Analytics_
 - Implemented model in public X and BlueSky accounts for ~16,500 weekly viewers 
 - [View Project](https://github.com/daniel-hrusovsky/Predicting-Unique-National-Football-League-Scores)
 
-**Fantasy Football League Database** - _Python, Pandas, NumPy, gspread, sleeper_
-- Built a **relational database** joining unstructured league data from four different leagues
-- Distributed weekly results to ~35 colleagues for strategy and curiosity
-- [View Project]
+**Reducing Struggles of Frustration in Major League Baseball** - _R, LaTex, Modeling_
+- Built a system of equations based on a **dual susceptible-infected model** representing interaction between hitters and pitchers
+- Performed simulations based on the eigenvalue approach using equilibria and a Jacobian matrix to determine stability
+- Found population of struggling hitters maximizes while dominant hitters minimizes
+- [View Project](https://github.com/daniel-hrusovsky/Reducing-Struggles-of-Frustration-in-Major-League-Baseball)
 
 **View profile for additional projects**
 

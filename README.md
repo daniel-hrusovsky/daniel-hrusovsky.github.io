@@ -23,19 +23,19 @@ _Minors in Data Science, Statistics & Analytics_
 - Analyzed ~3,000 collegiate volleyball matches to study how serving impacts win probability
 - Built **regression models** to uncover actionable insights for coaching strategy
 - Found aggressive serving, even with serving errors, linked to higher win rates
-- [View Project](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
+- [**View Project**](https://github.com/Eric-Geisler/Serving-and-Serve-Receiving-Volleyball-Project)
 
 **Predicting Unique National Football League Scores** - _Python, Pandas, NumPy, scikit-learn, Tableau_
 - Examined how different offensive and defensive statistics of professional football games affect unique scoring outcomes 
 - Built an **MLP correlation neural network** on ~16,500 professional football games to predict final scores
 - Implemented model in public X and BlueSky accounts for ~16,500 weekly viewers 
-- [View Project](https://github.com/daniel-hrusovsky/Predicting-Unique-National-Football-League-Scores)
+- [**View Project**](https://github.com/daniel-hrusovsky/Predicting-Unique-National-Football-League-Scores)
 
 **Reducing Struggles of Frustration in Major League Baseball** - _R, LaTex, Modeling_
 - Built a system of equations based on a **dual susceptible-infected model** representing interaction between hitters and pitchers
 - Performed simulations based on the eigenvalue approach using equilibria and a Jacobian matrix to determine stability
-- Found population of struggling hitters maximizes while dominant hitters minimizes
-- [View Project](https://github.com/daniel-hrusovsky/Reducing-Struggles-of-Frustration-in-Major-League-Baseball)
+- Found population of struggling hitters maximizes while dominant hitters minimize
+- [**View Project**](https://github.com/daniel-hrusovsky/Reducing-Struggles-of-Frustration-in-Major-League-Baseball)
 
 **View profile for additional projects**
 

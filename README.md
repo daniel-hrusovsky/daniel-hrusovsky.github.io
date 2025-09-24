@@ -63,6 +63,5 @@ _Analyst, Assistant Coach -- (August 2023 - May 2025)_
 ### Cloud & Tools
 - Excel
 - Access
+- AWS
 - Google Cloud
-- BigQuery
-- Dataflow
